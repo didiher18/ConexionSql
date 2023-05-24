@@ -1,0 +1,12 @@
+C:\Users\-HERNANDEZ-\source\repos\SQL Y C#\Empadronamiento\bin\Debug\Empadronamiento.exe.config
+C:\Users\-HERNANDEZ-\source\repos\SQL Y C#\Empadronamiento\bin\Debug\Empadronamiento.exe
+C:\Users\-HERNANDEZ-\source\repos\SQL Y C#\Empadronamiento\bin\Debug\Empadronamiento.pdb
+C:\Users\-HERNANDEZ-\source\repos\SQL Y C#\Empadronamiento\obj\Debug\Empadronamiento.csproj.AssemblyReference.cache
+C:\Users\-HERNANDEZ-\source\repos\SQL Y C#\Empadronamiento\obj\Debug\Empadronamiento.FrmInicio.resources
+C:\Users\-HERNANDEZ-\source\repos\SQL Y C#\Empadronamiento\obj\Debug\Empadronamiento.Properties.Resources.resources
+C:\Users\-HERNANDEZ-\source\repos\SQL Y C#\Empadronamiento\obj\Debug\Empadronamiento.csproj.GenerateResource.cache
+C:\Users\-HERNANDEZ-\source\repos\SQL Y C#\Empadronamiento\obj\Debug\Empadronamiento.csproj.CoreCompileInputs.cache
+C:\Users\-HERNANDEZ-\source\repos\SQL Y C#\Empadronamiento\obj\Debug\Empadronamiento.exe
+C:\Users\-HERNANDEZ-\source\repos\SQL Y C#\Empadronamiento\obj\Debug\Empadronamiento.pdb
+C:\Users\-HERNANDEZ-\source\repos\SQL Y C#\Empadronamiento\obj\Debug\Empadronamiento.FrmConsultas.resources
+C:\Users\-HERNANDEZ-\source\repos\SQL Y C#\Empadronamiento\obj\Debug\Empadronamiento.FrmRegistro.resources
